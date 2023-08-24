@@ -1,2 +1,1 @@
-# DevOpsLabs
-Coleção de scripts para automação da criação de laboratórios de estudos
+Coleção de scripts para automação da criação de laboratórios de estudos em máquinas Ubuntu nas Clouds AWS e Digital Ocean
